@@ -155,6 +155,7 @@
             <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="889b4a" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="SINGLESTRING" styleID="7" fgColor="98676a" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="TAG" styleID="1" fgColor="dc3958" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TAGEND" styleID="11" fgColor="dc3958" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="dc3958" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="f79a32" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="f79a32" bgColor="fbebd4" fontName="" fontStyle="" fontSize="10" />
